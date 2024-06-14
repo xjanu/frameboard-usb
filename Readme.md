@@ -7,7 +7,7 @@ TODO: picture
 
 ## Board
 
-TODO
+The board schematic and layout can be found in the `board/` directory. It was designed in [KiCad](https://www.kicad.org/).
 
 ## Firmware
 
